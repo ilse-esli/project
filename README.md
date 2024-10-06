@@ -1,3 +1,7 @@
+To deploy on github run following commands:
+ng build --base-href "https://ilse-esli.github.io/project/"
+npx angular-cli-ghpages --dir=dist/project
+
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
